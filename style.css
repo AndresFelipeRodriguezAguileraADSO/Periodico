@@ -1,0 +1,424 @@
+
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.Principal{
+    width: 1500px;
+    height: 2000px;
+    margin: 15px auto;
+    background-color: #c8bb98;
+}
+
+.Container{
+    width: 700px;
+    height: 700px;
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+
+.Container2{
+    width: 670px;
+    height: 1500px;
+    position: relative;
+    top: -660px;
+    left: 800px;
+}
+
+.Container2_1{
+    width: 350px;
+    height: 1390px;
+    position: relative;
+    left: -15px;
+    top: -10px;
+}
+
+.Container2_1 p{
+    font-size:19.5px;
+}
+
+.Container2_2{
+    width: 325px;
+    height: 1390px;
+    position: relative;
+    left: 350px;
+    top: -1410px;
+}
+
+.Container2_2 p{
+    font-size:19.6px;
+    text-align: left;
+}
+
+.Container3{
+    width: 350px;
+    height: 1000px;
+    position: relative;
+    top: -2170px;
+    left: 40px;
+    border: 5px solid black;
+}
+
+.Container4{
+    width: 350px;
+    height: 1000px;
+    position: relative;
+    top: -3180px;
+    right: -415px;
+    border: 5px solid black;
+}
+
+.Moño{
+    position: relative;
+    width: 350px;
+    height: 350px;
+}
+
+.Texto{
+    width: 320px;
+    height: 650px;
+    position: relative;
+    left: 15px;
+    top: -10px;
+}
+
+.Texto1_1{
+    width: 280px;
+    height: 70px;
+    position: relative;
+    left: 35px;
+}
+
+.Texto1_1 p{
+    font-size: 20px;
+}
+
+.Texto1_2{
+    width: 300px;
+    height: 120px;
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+
+.Texto1_2 p{
+    font-size: 20px;
+}
+
+.Texto1_3_1 p{
+    font-size: 35px;
+}
+
+.Texto1_3_2 p {
+    font-size: 30px;
+}
+
+.Texto1_3{
+    width: 300px;
+    height: 310px;
+    position: relative;
+    left: 15px;
+}
+
+.Negrilla1{
+    font-weight: bold;
+}
+
+.Negrilla2{
+    font-weight: bold;
+}
+
+.Texto1_3 p{
+    text-align: center;
+}
+
+.Texto1_4 {
+    width: 300px;
+    height: 60px;
+    position: relative;
+    left: 20px;
+    top: -20px;
+}
+
+.Texto1_4 p {
+    font-size: 22px;
+    text-align: center;
+}
+
+.Texto h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+.Mujer{
+    position: relative;
+    width: 350px;
+    height: 655px;
+}
+
+.Texto2{
+    width:220px;
+    height:260px;
+    position: relative;
+    left: 65px;
+}
+
+.Texto2 p{
+    text-align: center;
+    font-size: 25px;
+}
+
+.Texto2 li{
+    text-align: left
+    ;
+    font-size: 20px;
+}
+
+.Num{
+    position: relative;
+    top: 45px;
+    width: 350px;
+    left: -65px;
+}
+
+.Container5{
+    width: 725px;
+    height: 850px;
+    position: relative;
+    top: -3150px;
+    left: 40px;
+    border: 5px solid black;
+}
+
+.Titulo h1{
+    text-align: center;
+    font-size: 15px;
+    font-size: 100px;
+    position: relative;
+    top:-60px ;
+}
+
+.SubTitulo h2{
+    text-align: center;
+    font-size: 15px;
+    font-size: 30px;
+    position: relative;
+    top:-130px ;
+}
+
+.Sub h3{
+    text-align: center;
+    font-size: 15px;
+    font-size: 25px;
+    position: relative;
+    top:-150px ;
+}
+
+.Container5_1{
+    width: 330px;
+    height: 300px;
+    position: relative;
+    left: 70px;
+    top: -140px;
+}
+
+.Subti{    
+    position: relative;
+    top: -20px;
+    font-size: 20px;
+}
+
+.Subti2{
+    position: relative;
+    top: -40px;
+    font-size: 20px;
+}
+
+.Container5_1 p{
+    position: relative;
+    top: -60px;
+    font-size: 20px;
+}
+
+.Container5_2{
+    width: 330px;
+    height: 300px;
+    position: relative;
+    left: 370px;
+    top: -460px;
+}
+
+.Container5_2_1{
+    width: 330px;
+    height: 110px;
+    position: relative;
+}
+
+.Container5_2_1 p{
+    font-size: 20px;
+    position: relative;
+    top: -20px;
+}
+
+.Container5_3{
+    width: 170px;
+    height: 170px;
+    position: relative;
+    left: 260px;
+    top: -430px;
+    border: 3px solid black;
+
+}
+
+.Vote{
+    width: 170px;
+}
+
+.Container5_4{
+    position: relative;
+    width: 330px;
+    height: 200px;
+    left: 370px;
+    top: -850px;
+}
+
+.Container5_4 h2{
+    position: relative;
+    font-size: 22px;
+    top: -7px;
+
+}
+
+.Container5_4 ul li{
+    font-size: 22px;
+    position: relative;
+    left: -15px;
+    top: -20px;
+
+}
+
+.Container5_5{
+    width: 220px;
+    height: 210px;
+    position: relative;
+    top: -860px;
+    left: 450px;
+}
+
+.Container5_5 p{
+    position: relative;
+    top: -20px;
+    font-size: 22px;
+}
+.Container5_5 ul li{
+    position: relative;
+    top: -40px;
+    font-size: 22px;
+}
+
+.Container5_6{
+    width: 172px;
+    height: 170px;
+    position: relative;
+    top: -1055px;
+    left: 70px;
+}
+
+.Container5_6 h2, p{
+    font-size: 19px;
+}
+
+.Container5_7{
+    width: 550px;
+    height: 80px;
+    position: relative;
+    left: 100px;
+    top: -1060px;
+}
+
+.Container5_7 p{
+    text-align: center;
+}
+
+.Container5_8{
+    width: 650px;
+    height: 40px;
+    position: relative;
+    top: -1100px;
+    left: 20px;
+}
+
+.Container5_8 p{
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    left: -2px ;
+}
+
+.Container6{
+    width: 670px;
+    height: 500px;
+    position: relative;
+    top: -3660px;
+    right: -800px;
+    border: 5px solid black;
+}
+
+.Container6_1{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: -4px;
+}
+
+.MujerArriba{
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+.Container6_2{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: -10px;
+}
+
+.MujerAbajo{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: 10px;
+}
+
+.Container6_3{
+    position: relative;
+    width: 410px;
+    height: 250px;
+    top: -500px;
+    left: 250px;
+}
+
+.TextoArriba{
+    width: 410px;
+    height: 250px;
+    position: relative;
+    left: 12px;
+}
+
+.Container6_4{
+    position: relative;
+    top: -500px;
+    height: 250px;
+    width: 410px;
+    left: 260px;
+}
+
+.TextoAbajo{
+    width: 410px;
+    height: 250px;
+    position: relative;
+    left: 2px;
+}
